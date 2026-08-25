@@ -10,22 +10,26 @@
 ############################
 
 # Name of website
-title: My website
+title: Xiaolei (Damon) Yuan
 
 # Your name to show in the footer
-author: Some Person
+author: Damon
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "aboutme"
+  Research: "research"
+  Publications: "publications"
+  Projects: "projects"
+  Team: "team"
+  CV: "cv"
 
+avatar: "/assets/img/avatar-icon.png"
+
+round-avatar: true
 ################
 # --- Logo --- #
 ################
