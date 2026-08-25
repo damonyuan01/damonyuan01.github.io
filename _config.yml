@@ -29,7 +29,7 @@ navbar-links:
 ################
 
 # Image to show in the navigation bar
-avatar: "/assets/img/xiaolei-yuan.jp"
+avatar: "/assets/img/xiaolei-yuan.jpg"
 
 # Show avatar as a circle
 round-avatar: true
