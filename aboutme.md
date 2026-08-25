@@ -37,7 +37,6 @@ My academic background also includes:
 - **D.Sc. (Tech.), Energy Technology**, Aalto University, Finland, 2022
 - **M.Eng., Architecture and Civil Engineering**, Nanjing Tech University, China, 2019
 - **M.Sc., Sustainable Built Environments**, University of Reading, UK, 2016
-- **B.Eng., Architecture Environment and Equipment Engineering**, Nanjing Tech University Pujiang College, China, 2015
 
 ## Research Highlights
 
