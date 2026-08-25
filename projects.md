@@ -11,7 +11,7 @@ My research projects focus on building energy systems, HVAC, thermal energy stor
 ### Data Centre Thermal Management and Energy Systems
 
 **Role:** Principal Investigator  
-**Host:** LUT University  
+**Institution:** LUT University  
 **Period:** 2026–present
 
 Research on energy-efficient cooling, thermal management, waste heat recovery, and energy-system integration of data centres and AI infrastructure. The work covers both large-scale data centres and small-scale ICT rooms, with particular attention to their interaction with buildings and district energy systems.
@@ -21,7 +21,7 @@ Research on energy-efficient cooling, thermal management, waste heat recovery, a
 ### Residential Ventilation and Energy Systems
 
 **Role:** Principal Investigator  
-**Host:** LUT University  
+**Institution:** LUT University  
 **Period:** 2026–present
 
 Research on residential ventilation, indoor environmental conditions, energy efficiency, and intelligent operation of building energy systems.
@@ -31,7 +31,7 @@ Research on residential ventilation, indoor environmental conditions, energy eff
 ### Data Centre Waste Heat Recovery and District Heating Integration
 
 **Role:** Principal Investigator / Researcher  
-**Host:** LUT University  
+**Institution:** LUT University  
 **Period:** 2026–present
 
 Research on the technical and energy-system potential of recovering waste heat from data centres for district heating, including thermal integration, system performance, spatial suitability, and energy efficiency.
@@ -43,7 +43,7 @@ Research on the technical and energy-system potential of recovering waste heat f
 ### Building Energy Flexibility and Intelligent HVAC Control
 
 **Role:** Researcher  
-**Host:** Aalto University
+**Institution:** Aalto University
 
 Research on building energy flexibility, demand response, intelligent HVAC control, thermal energy storage, and the integration of buildings with district energy systems.
 
@@ -52,7 +52,7 @@ Research on building energy flexibility, demand response, intelligent HVAC contr
 ### Thermal Energy Storage for Building and District Energy Systems
 
 **Role:** Researcher  
-**Host:** Aalto University
+**Institution:** Aalto University
 
 Research on thermal energy storage technologies and their integration with heating, cooling, renewable energy, and district energy systems, including ice thermal energy storage and borehole thermal energy storage.
 
@@ -61,7 +61,7 @@ Research on thermal energy storage technologies and their integration with heati
 ### Low-Temperature District Heating and Local Hybrid Energy Systems
 
 **Role:** Researcher  
-**Host:** Aalto University
+**Institution:** Aalto University
 
 Research on low-temperature district heating, local hybrid energy systems, renewable energy integration, heat pumps, thermal storage, and system-level optimisation.
 
@@ -70,7 +70,7 @@ Research on low-temperature district heating, local hybrid energy systems, renew
 ### Waste Heat Recovery from Hydrogen Production
 
 **Role:** Researcher  
-**Host:** Aalto University
+**Institution:** Aalto University
 
 Research on the recovery and utilisation of waste heat from hydrogen production and its integration into district heating and building energy systems.
 
