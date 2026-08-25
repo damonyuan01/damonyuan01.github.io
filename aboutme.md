@@ -59,7 +59,7 @@ Selected research contributions include:
 
 I have experience as a **Principal Investigator, main researcher, and project researcher** in externally funded research projects supported by foundations, industry, Business Finland, the Academy of Finland, the European Commission, and other funding organizations.
 
-As PI, I have received competitive research funding from Finnish foundations.
+As PI, I have received competitive research funding from Finnish foundations and industrial projects.
 
 I have also contributed as a main researcher to the **Business Finland B2RECoM project** and to research projects related to building energy flexibility, HVAC systems, and sustainable energy infrastructure.
 
