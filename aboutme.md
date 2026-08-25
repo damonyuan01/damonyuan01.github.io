@@ -35,6 +35,7 @@ Before joining LUT University, I worked as a **Postdoctoral Researcher at Aalto 
 My academic background also includes:
 
 - **D.Sc. (Tech.), Energy Technology**, Aalto University, Finland, 2022
+- **D.Sc. Energy annd Environmental Protection**, Tongji University, Finland, 2022 (Certificate of Sudy)
 - **M.Eng., Architecture and Civil Engineering**, Nanjing Tech University, China, 2019
 - **M.Sc., Sustainable Built Environments**, University of Reading, UK, 2016
 
